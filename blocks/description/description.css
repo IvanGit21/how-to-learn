@@ -1,0 +1,7 @@
+.description{
+    display: flex;
+    box-sizing: border-box;
+    margin:100px auto 0;
+    justify-content: center;
+    
+    }
